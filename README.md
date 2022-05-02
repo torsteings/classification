@@ -1,2 +1,3 @@
-# classification
-Project 2: Classification problem
+## Project 2: Classification problem
+
+Predict a binary og categorical outcome.
